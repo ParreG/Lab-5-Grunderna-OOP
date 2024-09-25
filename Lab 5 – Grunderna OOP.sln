@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 5 – Grunderna OOP", "Lab 5 – Grunderna OOP.csproj", "{14690D97-9E66-4D00-9B1B-975B73DDB5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14690D97-9E66-4D00-9B1B-975B73DDB5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14690D97-9E66-4D00-9B1B-975B73DDB5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14690D97-9E66-4D00-9B1B-975B73DDB5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14690D97-9E66-4D00-9B1B-975B73DDB5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8732D79-F532-4207-A80D-9B0A57476A54}
+	EndGlobalSection
+EndGlobal
